@@ -4,11 +4,11 @@ let link = document.getElementById("link");
 
 bar.addEventListener('click' , function(){
 link.style.right="0px"
-bar.style.display="none"
+link.style.display="inline"
 })
 xmark.addEventListener('click' , function(){
 link.style.right="-200px"
-bar.style.display="inline"
+link.style.display="none"
 })
 
 
