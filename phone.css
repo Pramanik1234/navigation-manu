@@ -13,7 +13,7 @@ body{
     height: 100%;
     text-align: left;
     z-index: 2;
-    display:none;
+    transition:1s;
 }
 nav img{
     width: 50px;
