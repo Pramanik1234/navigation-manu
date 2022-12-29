@@ -6,7 +6,7 @@ bar.addEventListener('click' , function(){
 link.style.width="200px"
 })
 xmark.addEventListener('click' , function(){
-link.style.right="0px"
+link.style.width="0px"
 })
 
 
