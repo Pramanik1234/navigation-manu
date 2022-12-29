@@ -8,8 +8,8 @@ body{
     background-image: linear-gradient(75deg,#000046,#1cb5e0);
     position: absolute;
     top: 0%;
-    right:-200px;
-    width:200px;
+    right:0px;
+    width:0px;
     height: 100%;
     text-align: left;
     z-index: 2;
